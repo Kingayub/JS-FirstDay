@@ -1,0 +1,10 @@
+let nameGame;
+let descriptionGame;
+let versionGame;
+let nameMainPersonGame;
+let nameDeveloperGame;
+let gameOfLanguageProgrammer;
+let versionGameOfLanguageProgrammer;
+let nameCardOnWhichActions;
+let gameDevelopersWebsite;
+let interfaceLanguage;
